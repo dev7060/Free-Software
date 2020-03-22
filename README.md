@@ -28,6 +28,15 @@ List of free software that can be used during the COVD-19 quarantine period.
 * Qt Open Source [https://www.qt.io/download-open-source](https://www.qt.io/download-open-source)
 * Visual Studio Community [https://visualstudio.microsoft.com/vs/community/](https://visualstudio.microsoft.com/vs/community/)
 
+### Screen Capture
+* ShareX [https://getsharex.com/](https://getsharex.com/)
+
+### Screen Recorders
+* CamStudio [https://camstudio.org/](https://camstudio.org/)
+* Open Broadcaster Software [https://obsproject.com/](https://obsproject.com/)
+* SimpleScreenRecorder [https://www.maartenbaert.be/simplescreenrecorder/](https://www.maartenbaert.be/simplescreenrecorder/)
+* UltraVNC [https://www.uvnc.com/downloads/screenrecorder.html](https://www.uvnc.com/downloads/screenrecorder.html)
+
 ### Text Editors
 * Atom [https://atom.io/](https://atom.io/)
 * Bluefish [http://bluefish.openoffice.nl/index.html](http://bluefish.openoffice.nl/index.html)
