@@ -1,5 +1,5 @@
 # Free-Software
-List of free software that can be used during the COVD-19 quarantine period.
+List of free software.
 
 ### Audio Editors
 * Audacity [https://www.audacityteam.org/](https://www.audacityteam.org/)
