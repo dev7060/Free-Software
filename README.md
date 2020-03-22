@@ -1,6 +1,15 @@
 # Free-Software
 List of free software that can be used during the COVD-19 quarantine period.
 
+### Audio Editors
+* Audacity [https://www.audacityteam.org/](https://www.audacityteam.org/)
+* Dark Audacity [http://www.darkaudacity.com/](http://www.darkaudacity.com/)
+* Kid3 [https://kid3.kde.org/](https://kid3.kde.org/)
+* Wavosaur [https://www.wavosaur.com/](https://www.wavosaur.com/)
+* Mp3DirectCut [http://mpesch3.de/](http://mpesch3.de/)
+* Mp3tag [https://www.mp3tag.de/en/index.html](https://www.mp3tag.de/en/index.html)
+* Mp3splt [http://mp3splt.sourceforge.net/mp3splt_page/home.php](http://mp3splt.sourceforge.net/mp3splt_page/home.php)
+
 ### Computer Aided Design
 * FreeCAD [https://www.freecadweb.org/](https://www.freecadweb.org/)
 * LibreCAD [https://librecad.org/](https://librecad.org/)
