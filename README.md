@@ -28,6 +28,10 @@ List of free software that can be used during the COVD-19 quarantine period.
 * Qt Open Source [https://www.qt.io/download-open-source](https://www.qt.io/download-open-source)
 * Visual Studio Community [https://visualstudio.microsoft.com/vs/community/](https://visualstudio.microsoft.com/vs/community/)
 
+### Media Player
+* VLC media player [http://www.videolan.org/](http://www.videolan.org/)
+* Media player classic [https://mpc-hc.org/](https://mpc-hc.org/)
+
 ### Screen Capture
 * ShareX [https://getsharex.com/](https://getsharex.com/)
 
