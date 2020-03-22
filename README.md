@@ -33,6 +33,7 @@ List of free software that can be used during the COVD-19 quarantine period.
 
 ### Screen Recorders
 * CamStudio [https://camstudio.org/](https://camstudio.org/)
+* Freeseer [https://freeseer.readthedocs.io/en/latest/about/index.html](https://freeseer.readthedocs.io/en/latest/about/index.html)
 * Open Broadcaster Software [https://obsproject.com/](https://obsproject.com/)
 * SimpleScreenRecorder [https://www.maartenbaert.be/simplescreenrecorder/](https://www.maartenbaert.be/simplescreenrecorder/)
 * UltraVNC [https://www.uvnc.com/downloads/screenrecorder.html](https://www.uvnc.com/downloads/screenrecorder.html)
